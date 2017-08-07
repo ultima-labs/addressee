@@ -6,6 +6,11 @@
 
   <PropertyGroup>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://github.com/ultima-labs/addressee/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/ultima-labs/addressee</PackageProjectUrl>
+    <PackageTags>Address, Postcode, Validation</PackageTags>
   </PropertyGroup>
   
   <ItemGroup>
