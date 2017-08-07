@@ -4,6 +4,10 @@
     <TargetFramework>netstandard1.4</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+  
   <ItemGroup>
     <PackageReference Include="JetBrains.Annotations" Version="10.4.0" />
   </ItemGroup>
